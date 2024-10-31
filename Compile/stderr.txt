@@ -1,0 +1,4 @@
+main.cpp: In function ‘void CompareThreeNumbers(int, int, int, Result&)’:
+main.cpp:21:12: error: return-statement with a value, in function returning ‘void’ [-fpermissive]
+   21 |     return result;
+      |            ^~~~~~
